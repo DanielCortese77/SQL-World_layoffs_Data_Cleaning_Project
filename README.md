@@ -30,7 +30,8 @@ File	Description
 - Data Exploration.sql	SQL queries used for analysis
 - layoffs.csv	Original dataset
 
-## Key SQL Techniques
+## **Key SQL Techniques**
+
 - ROW_NUMBER()
 - CTEs
 - CASE WHEN
