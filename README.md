@@ -14,7 +14,7 @@ The project includes:
 -Formatting dates
 -Exploratory data analysis using SQL
 
-**Skills Demonstrated
+**Skills Demonstrated**
 -SQL
 -MySQL Workbench
 -Data Cleaning
@@ -23,7 +23,7 @@ The project includes:
 -Window Functions
 -Common Table Expressions (CTEs)
 
-## Files
+## **Files**
 
 File	Description
 - Data Cleaning.sql	SQL script used to clean the dataset
@@ -31,9 +31,9 @@ File	Description
 - layoffs.csv	Original dataset
 
 ## Key SQL Techniques
--ROW_NUMBER()
--CTEs
--CASE WHEN
+*ROW_NUMBER()
+*CTEs
+*CASE WHEN
 -GROUP BY
 -ORDER BY
 -Aggregate Functions
@@ -41,7 +41,7 @@ File	Description
 -Joins
 -String Functions
 
-### Results
+### **Results**
 
 The dataset was cleaned by removing duplicate records, correcting inconsistent values, standardizing dates, and handling missing information before performing exploratory analysis.
 
