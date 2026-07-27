@@ -2,7 +2,7 @@
 
 ## **SQL Data Cleaning Project**
 
-###**Project Overview**
+### **Project Overview**
 
 This project demonstrates the complete data cleaning process using MySQL. The dataset contains worldwide layoffs from companies across multiple industries.
 
@@ -23,14 +23,14 @@ The project includes:
 -Window Functions
 -Common Table Expressions (CTEs)
 
-##**Files
+## **Files
 
 File	Description
 - Data Cleaning.sql	SQL script used to clean the dataset
 - Data Exploration.sql	SQL queries used for analysis
 - layoffs.csv	Original dataset
 
-##**Key SQL Techniques
+## **Key SQL Techniques
 -ROW_NUMBER()
 -CTEs
 -CASE WHEN
