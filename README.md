@@ -41,7 +41,7 @@ File	Description
 -Joins
 -String Functions
 
-###**Results
+### **Results
 
 The dataset was cleaned by removing duplicate records, correcting inconsistent values, standardizing dates, and handling missing information before performing exploratory analysis.
 
