@@ -23,14 +23,14 @@ The project includes:
 -Window Functions
 -Common Table Expressions (CTEs)
 
-## **Files
+## Files
 
 File	Description
 - Data Cleaning.sql	SQL script used to clean the dataset
 - Data Exploration.sql	SQL queries used for analysis
 - layoffs.csv	Original dataset
 
-## **Key SQL Techniques
+## Key SQL Techniques
 -ROW_NUMBER()
 -CTEs
 -CASE WHEN
@@ -41,7 +41,7 @@ File	Description
 -Joins
 -String Functions
 
-### **Results
+### Results
 
 The dataset was cleaned by removing duplicate records, correcting inconsistent values, standardizing dates, and handling missing information before performing exploratory analysis.
 
