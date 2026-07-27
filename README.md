@@ -11,17 +11,17 @@ The project includes:
 - Removing duplicate records
 - Standardizing inconsistent values
 - Handling NULL values
--Formatting dates
--Exploratory data analysis using SQL
+- Formatting dates
+- Exploratory data analysis using SQL
 
 **Skills Demonstrated**
--SQL
--MySQL Workbench
--Data Cleaning
--Exploratory Data Analysis
--Aggregate Functions
--Window Functions
--Common Table Expressions (CTEs)
+- SQL
+- MySQL Workbench
+- Data Cleaning
+- Exploratory Data Analysis
+- Aggregate Functions
+- Window Functions
+- Common Table Expressions (CTEs)
 
 ## **Files**
 
@@ -31,15 +31,15 @@ File	Description
 - layoffs.csv	Original dataset
 
 ## Key SQL Techniques
-*ROW_NUMBER()
-*CTEs
-*CASE WHEN
--GROUP BY
--ORDER BY
--Aggregate Functions
--Date Functions
--Joins
--String Functions
+- ROW_NUMBER()
+- CTEs
+- CASE WHEN
+- GROUP BY
+- ORDER BY
+- Aggregate Functions
+- Date Functions
+- Joins
+- String Functions
 
 ### **Results**
 
